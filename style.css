@@ -1,14 +1,8 @@
-h1 {
-    color: rgb(14, 2, 26);
-    text-decoration: blueviolet;
-}
-body {
-    margin: 0%;
-    width: 100%;
-    height: 100vh;
-    font-family: sans-serif;
-    color: honeydew;
-    background linear gradient (-45 deg)
-    background-size: 400% 400%;
-    animation : gradient BG 15,ease infinite;
+p {
+    padding: 50px;
+    background color: #CCCCCC;
+    height: 500px;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
 }
