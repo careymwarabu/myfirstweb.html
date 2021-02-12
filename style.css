@@ -1,8 +1,18 @@
-p {
-    padding: 50px;
-    background color: #CCCCCC;
-    height: 500px;
-     background-position: center;
-     background-repeat: no-repeat;
-     background-size: cover;
+ p {
+   body style {
+      display: block;
+      background: #333;
+      color: white;
+      font: 13px/1.8 Monaco, Mono-Space;
+      padding: 20px;
+      white-space: pre;
+   }
+body {
+    background: none;
+    background-blend-mode: color-dodge;
+    background-color: gold;
 }
+img {
+    height: 500px;
+    float: left;
+}   
